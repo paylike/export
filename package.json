@@ -1,0 +1,11 @@
+{
+	"name": "paylike-export",
+	"version": "0.0.1",
+	"repository": "paylike/export",
+	"dependencies": {
+		"through2-map": "^2.0.0",
+		"numpad": "^0.0.1",
+		"csv-write-stream": "^2.0.0",
+		"paylike": "^1.0.1"
+	}
+}
